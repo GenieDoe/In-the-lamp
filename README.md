@@ -1,1 +1,1 @@
-# Place holder when real project starts.
+# Place holder.
