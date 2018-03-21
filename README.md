@@ -1,1 +1,1 @@
-# In the lamp
+# Place holder when real project starts.
